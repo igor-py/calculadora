@@ -1,6 +1,6 @@
 # Calculadora 
 
-![alt text](calc.png "Title")
+<img src="./calc.PNG" width=400></img>
 
 1 - Arquivo "main.py" é o script principal da calculadora enquanto o "calcular.py" é o algoritmo aonde são feitos os cálculos.
 
